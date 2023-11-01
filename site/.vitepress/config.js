@@ -15,6 +15,10 @@ export default defineConfig({
       {
         text: "Лабораторні роботи",
         items: [{ text: "Лабораторна робота №1", link: "/labs/1" }],
+        items: [{ text: "Лабораторна робота №2", link: "/labs/2" }],
+        items: [{ text: "Лабораторна робота №3", link: "/labs/3" }],
+        items: [{ text: "Лабораторна робота №4", link: "/labs/4" }],
+        items: [{ text: "Лабораторна робота №5", link: "/labs/5" }],
       },
     ],
 
